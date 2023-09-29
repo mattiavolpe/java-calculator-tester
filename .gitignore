@@ -1,0 +1,9 @@
+/bin/
+/bin/**
+/.settings/
+/.settings/**
+/src/main/resources/
+/src/main/resources/**
+/target/
+/target/**
+/pom.xml
